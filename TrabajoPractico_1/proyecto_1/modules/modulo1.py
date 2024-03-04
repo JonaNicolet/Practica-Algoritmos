@@ -1,5 +1,6 @@
 # módulo para organizar funciones o clases utilizadas en nuestro proyecto
 
+#Funcion fibo
 def fibo(n):
     if n in {0,1}:
         return n
